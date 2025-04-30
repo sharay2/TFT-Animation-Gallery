@@ -1,7 +1,5 @@
-# sharay2project3
+# TFT Animation Gallery
 **Stephen Harayo**  
-sharay2 · 675165774  
-**Project 3 – Animation Nation**
 
 This TFT/EXOTECH-themed app shows eight custom animations with unique screen transitions. Everything is optimized for landscape.
 
